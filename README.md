@@ -1,26 +1,20 @@
-## 👋 Hi, I’m @hiramhh
-
-```ruby
-class Developer{
-
-  constructor(name, age){
-  this.nombre = Hiram Hernandez;
-  this.age = 24;
-  }
-}
+<h1 align="center"> Hi, I’m @hiramhh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-```
+* 💻 I´m currently Working in Node.js.
+* 🤝🏾 I´m avalible for frelancing.
+* 👩🏾‍💻 I´m currently learning SQL databases.
+* 📸 I´m enjoy take photos to my isntagram
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/bubbles/instagram-old">
- <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/bubbles/instagram-old">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+## 😋🙋🏾‍♂️ Let´s Connect
+<p align="center">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/hiram-hernandez-250927203/">
+      <img src="https://img.icons8.com/bubbles/50/000000/linkedin">
+    </a>
+    <a href="https://www.instagram.com/hiram._hh/">
+      <img src="https://img.icons8.com/bubbles/50/000000/instagram-old">
+    </a>
+  </div>
+</p>
 
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/bubbles/linkedin">
- <source media="(prefers-color-scheme: light)" srcset="https://img.icons8.com/bubbles/linkedin">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
