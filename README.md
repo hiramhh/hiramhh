@@ -4,7 +4,7 @@
 * 💻 I´m currently Working in Node.js.
 * 🤝🏾 I´m avalible for frelancing.
 * 👩🏾‍💻 I´m currently learning SQL databases.
-* 📸 I´m enjoy take photos to my isntagram
+* 📸 I´m enjoy taking photos to my isntagram
 
 ## 😋🙋🏾‍♂️ Let´s Connect
 <p align="center">
