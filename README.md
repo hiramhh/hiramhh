@@ -1,6 +1,9 @@
 <h1 align="center"> Hi, I’m @hiramhh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="center" src="https://media.giphy.com/media/kprByMkudw8s8/giphy.gif">
+<p align="center">
+  <img align="center" src="https://media.giphy.com/media/kprByMkudw8s8/giphy.gif">
+</p>
+
 
 
 
@@ -10,6 +13,7 @@
 * 🤝🏾 I´m avalible for frelancing.
 * 👩🏾‍💻 I´m currently learning SQL databases.
 * 📸 I´m enjoy taking photos for my isntagram.
+* ⛵ I enjoy watching one piece!.
 
 ## 😋🙋🏾‍♂️ Let´s Connect
 <p align="center">
@@ -43,3 +47,12 @@
   <img src"https://img.icons8.com/color/react-native">
   <img src"https://img.icons8.com/color/amazon-web-services">
  </p>
+
+<br>
+<br>
+
+
+## Github stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiramhh&show_icons=true&layout=compact&theme=gruvbox">
+</div>
