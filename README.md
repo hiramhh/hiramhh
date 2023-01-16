@@ -55,5 +55,5 @@
 ## Github stats
 <pictur>
   <img src="https://github-readme-stats.vercel.app/api?username=hiramhh&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiramhh&show_icons=true&layout=compact&theme=gruvbox" /> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiramhh&show_icons=true&layout=compact&theme=gruvbox" /> 
  <picture/>
