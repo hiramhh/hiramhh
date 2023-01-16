@@ -53,7 +53,7 @@
 
 
 ## Github stats
-<div>
+<pictur>
   <img src="https://github-readme-stats.vercel.app/api?username=hiramhh&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiramhh&show_icons=true&layout=compact&theme=gruvbox">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiramhh&show_icons=true&layout=compact&theme=gruvbox"> 
+ <picture/>
