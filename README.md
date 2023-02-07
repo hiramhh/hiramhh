@@ -56,6 +56,9 @@
 <a href="https://github.com/hiramhh/guia-telefonica">
   <p>Codigo de la guia telefonica</p>
 </a>
+<a href="https://hiramhh.github.io/la-guia-telefonica/">
+  <p>Deploy de la guia telefonica</p>
+</a>
 
 <br>
 <br>
