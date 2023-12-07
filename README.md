@@ -8,10 +8,10 @@
 
 
 * 🦾 I'm a Mechatronics Engineer.
-* 💻 I´m currently Working in Node.js Projects.
-* 🌱 I'm looking to collaborate as a JavaScript Fullstack.
+* 💻 I´m currently Working with Java and microservices.
+* 🌱 I'm looking to collaborate as a Fullstack developer.
 * 🤝🏾 I´m avalible for frelancing.
-* 👩🏾‍💻 I´m currently learning SQL databases.
+* 👩🏾‍💻 I´m currently learning Java and Typescript.
 * 📸 I´m enjoy taking photos for my isntagram.
 * ⛵ I enjoy watching one piece!.
 
@@ -22,7 +22,7 @@
       <img src="https://img.icons8.com/bubbles/50/000000/linkedin">
     </a>
     <a href="https://www.instagram.com/hiram._hh/">
-      <img src="https://img.icons8.com/bubbles/50/000000/instagram-old">
+      <img src="https://img.icons8.com/?size=77&id=111397&format=png">
     </a>
     <a href="https://twitter.com/HiramHe10090492">
       <img src="https://img.icons8.com/bubbles/50/000000/twitter-circled">
