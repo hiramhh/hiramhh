@@ -44,6 +44,7 @@
   <img src="https://img.icons8.com/color/javascript">
   <img src="https://img.icons8.com/color/git">
   <img src="https://img.icons8.com/color/nodejs">
+  <img src="https://img.icons8.com/color/java">
   <img src"https://img.icons8.com/color/react-native">
   <img src"https://img.icons8.com/color/amazon-web-services">
  </p>
