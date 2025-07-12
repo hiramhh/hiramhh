@@ -8,10 +8,10 @@
 
 
 * 🦾 I'm a Mechatronics Engineer.
-* 💻 I´m currently Working with Java and microservices.
+* 💻 I´m currently Working with Angular and PHP.
 * 🌱 I'm looking to collaborate as a Fullstack developer.
 * 🤝🏾 I´m avalible for frelancing.
-* 👩🏾‍💻 I´m currently learning Java and Typescript.
+* 👩🏾‍💻 I´m currently learning Typescript.
 * 📸 I´m enjoy taking photos for my isntagram.
 * ⛵ I enjoy watching one piece!.
 
@@ -53,6 +53,10 @@
 <br>
 
 ## 🔨🌱 My projects
+
+<a href="https://github.com/hiramhh/portfolio-hzlh">
+  <p>I recently working with</p>
+</a>
 
 <a href="https://github.com/hiramhh/guia-telefonica">
   <p>Codigo de la guia telefonica</p>
