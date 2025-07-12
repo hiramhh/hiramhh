@@ -55,14 +55,16 @@
 ## 🔨🌱 My projects
 
 <a href="https://github.com/hiramhh/portfolio-hzlh">
-  <p>I recently working with</p>
+  <p>I recently working with ...</p>
+</a>
+
+
+<a href="https://dancing-swan-4b6c7d.netlify.app/">
+  <p>My portfolio (Beta)</p>
 </a>
 
 <a href="https://github.com/hiramhh/guia-telefonica">
   <p>Codigo de la guia telefonica</p>
-</a>
-<a href="https://hiramhh.github.io/la-guia-telefonica/">
-  <p>Deploy de la guia telefonica</p>
 </a>
 
 <br>
